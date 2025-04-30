@@ -1,8 +1,8 @@
 I have created multiple pages for the application, including:
-Registration Page
-Instruction Page
-Test Page
-Submit Review Page
+Registration Page,
+Instruction Page,
+Test Page,
+Submit Review Page,
 Report Page
 
 ✨ Key Features Implemented:
