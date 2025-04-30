@@ -1,0 +1,26 @@
+.instruction-container {
+    font-size: var(--font-size-base);
+    color: #333;
+  }
+  
+  .instruction-list {
+    list-style-type: disc;
+    padding-left: 1.5rem;
+    font-size: var(--font-size-base);
+  }
+  
+  @media (max-width: 768px) {
+    .instruction-container {
+      padding: 1rem;
+      font-size: 0.95rem;
+    }
+  
+    .instruction-list {
+      font-size: 0.95rem;
+    }
+  
+    .btn {
+      width: 100%;
+      font-size: 1rem;
+    }
+  }
